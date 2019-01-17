@@ -6,8 +6,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+<hr>
+
 # Decorator
-A decorator is simply a function that modifies definition of a class or properties inside a class. These decorators are also called as annotations and are mainly classified as two types. 
+A decorator is simply a function that modifies definition of a class or properties inside a class. These decorators are also called as **annotations** and are mainly classified as *two* types. 
 
 ## Class Decorator 
 A decorator that appears immediately before a class definition. 
