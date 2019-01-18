@@ -1,7 +1,9 @@
 .parentComponent{
-    width: 350px;
+    width: 450px;
     padding: 20px;
     border: 1px solid brown;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 
 .greenPara{

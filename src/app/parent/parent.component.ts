@@ -18,7 +18,7 @@ export class ParentComponent implements OnInit {
     this.chocolate++;
   }
 
-  sayThanks($event) {
-    this.thankYouText = $event;
+  sayThanks(event) {
+    this.thankYouText = event;
   }
 }
